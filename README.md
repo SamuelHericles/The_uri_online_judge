@@ -5,7 +5,7 @@
 + Language C
 + gcc compiler
 
-# Autor
+# Author
 + Samuel Hericles - samuel.hericles@outlook.com
 
 # State os projeto
